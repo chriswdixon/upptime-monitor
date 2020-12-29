@@ -6,18 +6,18 @@ repo: upptime-monitor # Your GitHub repository name
 sites:
   - name: LeftLane.IO
     url: https://leftlane.io
-  - name: Housegals.com
-    url: https://housegals.com
-  - name: Grand Slam Training
-    url: https://grandslamtraining.com
-  - name: EPIC Project Management
-    url: https://www.epicpmgroup.com
   - name: 3dvirtualtoursaustin
     url: https://3dvirtualtoursaustin.com
   - name: efrensanchez.com
     url: https://efrensanchez.com
+  - name: EPIC Project Management
+    url: https://www.epicpmgroup.com
   - name: fridaysoutside.com
     url: https://fridaysoutside.com
+  - name: Grand Slam Training
+    url: https://grandslamtraining.com
+  - name: Housegals.com
+    url: https://housegals.com
   - name: Hutto Infinity Athletics
     url: https://huttoinfinityathletics.com
   - name: Jackson, Sjoberg LLP
@@ -32,6 +32,8 @@ sites:
     url: https://www.rememberingryansheehan.com
   - name: SOS Austin
     url: https://sos-austin.org
+  - name: Stars Vipers
+    url: https://starsvipers.com
   - name: trueamedspa.com
     url: https://trueamedspa.com
   - name: TX BMX Hall of Fame
