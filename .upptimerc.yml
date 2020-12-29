@@ -4,17 +4,41 @@ repo: upptime-monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: LeftLane.IO
+    url: https://leftlane.io
+  - name: Housegals.com
+    url: https://housegals.com
+  - name: Grand Slam Training
+    url: https://grandslamtraining.com
+  - name: EPIC Project Management
+    url: https://www.epicpmgroup.com
+  - name: 3dvirtualtoursaustin
+    url: https://3dvirtualtoursaustin.com
+  - name: efrensanchez.com
+    url: https://efrensanchez.com
+  - name: fridaysoutside.com
+    url: https://fridaysoutside.com
+  - name: Hutto Infinity Athletics
+    url: https://huttoinfinityathletics.com
+  - name: Jackson, Sjoberg LLP
+    url: https://jacksonsjoberg.com
+  - name: kahanek.net
+    url: https://kahanek.net
+  - name: nextlevelfitnessctx.com
+    url: https://nextlevelfitnessctx.com
+  - name: Pflugerville Tours
+    url: https://pflugervilletours.com
+  - name: Remembering Ryan Sheehan
+    url: https://www.rememberingryansheehan.com
+  - name: SOS Austin
+    url: https://sos-austin.org
+  - name: trueamedspa.com
+    url: https://trueamedspa.com
+  - name: TX BMX Hall of Fame
+    url: https://txbmxhof.org
+  - name: TX CPA Consulting
+    url: https://txcpaconsulting.com
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.leftlane.io
