@@ -40,6 +40,10 @@ sites:
     url: https://txbmxhof.org
   - name: TX CPA Consulting
     url: https://txcpaconsulting.com
+  - name: PR By The Book
+    url: https://prbythebook.com
+  - name: Texas Lifestyle Magazine
+    url: https://texaslifestylemag.com
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
