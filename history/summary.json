@@ -148,19 +148,19 @@
     "url": "https://jacksonsjoberg.com",
     "icon": "https://favicons.githubusercontent.com/jacksonsjoberg.com",
     "slug": "jackson-sjoberg-llp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2110,
-    "timeDay": 4537,
-    "timeWeek": 2110,
-    "timeMonth": 2110,
-    "timeYear": 2110,
+    "status": "up",
+    "uptime": "98.72%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
+    "time": 1952,
+    "timeDay": 2458,
+    "timeWeek": 1952,
+    "timeMonth": 1952,
+    "timeYear": 1952,
     "dailyMinutesDown": {
-      "2021-01-04": 1
+      "2021-01-04": 104
     }
   },
   {
