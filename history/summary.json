@@ -114,10 +114,10 @@
     "url": "https://housegals.com",
     "icon": "https://favicons.githubusercontent.com/housegals.com",
     "slug": "housegals-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1669,
@@ -125,25 +125,29 @@
     "timeWeek": 2099,
     "timeMonth": 1669,
     "timeYear": 1669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-21": 1
+    }
   },
   {
     "name": "Hutto Infinity Athletics",
     "url": "https://huttoinfinityathletics.com",
     "icon": "https://favicons.githubusercontent.com/huttoinfinityathletics.com",
     "slug": "hutto-infinity-athletics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2035,
-    "timeDay": 2575,
-    "timeWeek": 1766,
-    "timeMonth": 2035,
-    "timeYear": 2035,
-    "dailyMinutesDown": {}
+    "time": 1978,
+    "timeDay": 1505,
+    "timeWeek": 1599,
+    "timeMonth": 1978,
+    "timeYear": 1978,
+    "dailyMinutesDown": {
+      "2021-01-21": 1
+    }
   },
   {
     "name": "Jackson, Sjoberg LLP",
@@ -188,18 +192,20 @@
     "url": "https://nextlevelfitnessctx.com",
     "icon": "https://favicons.githubusercontent.com/nextlevelfitnessctx.com",
     "slug": "nextlevelfitnessctx-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1847,
-    "timeDay": 153,
-    "timeWeek": 1707,
-    "timeMonth": 1847,
-    "timeYear": 1847,
-    "dailyMinutesDown": {}
+    "time": 1796,
+    "timeDay": 293,
+    "timeWeek": 1548,
+    "timeMonth": 1796,
+    "timeYear": 1796,
+    "dailyMinutesDown": {
+      "2021-01-21": 1
+    }
   },
   {
     "name": "Pflugerville Tours",
@@ -242,18 +248,20 @@
     "url": "https://sos-austin.org",
     "icon": "https://favicons.githubusercontent.com/sos-austin.org",
     "slug": "sos-austin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 328,
-    "timeWeek": 858,
-    "timeMonth": 893,
-    "timeYear": 893,
-    "dailyMinutesDown": {}
+    "time": 875,
+    "timeDay": 357,
+    "timeWeek": 799,
+    "timeMonth": 875,
+    "timeYear": 875,
+    "dailyMinutesDown": {
+      "2021-01-21": 0
+    }
   },
   {
     "name": "Stars Vipers",
@@ -278,18 +286,20 @@
     "url": "https://trueamedspa.com",
     "icon": "https://favicons.githubusercontent.com/trueamedspa.com",
     "slug": "trueamedspa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2162,
-    "timeDay": 1822,
-    "timeWeek": 1896,
-    "timeMonth": 2162,
-    "timeYear": 2162,
-    "dailyMinutesDown": {}
+    "time": 2107,
+    "timeDay": 1226,
+    "timeWeek": 1738,
+    "timeMonth": 2107,
+    "timeYear": 2107,
+    "dailyMinutesDown": {
+      "2021-01-21": 0
+    }
   },
   {
     "name": "TX BMX Hall of Fame",
