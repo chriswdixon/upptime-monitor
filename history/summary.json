@@ -4,72 +4,79 @@
     "url": "https://leftlane.io",
     "icon": "https://favicons.githubusercontent.com/leftlane.io",
     "slug": "left-lane-io",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 704,
     "timeDay": 274,
     "timeWeek": 195,
     "timeMonth": 577,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 6
+    }
   },
   {
     "name": "3dvirtualtoursaustin",
     "url": "https://3dvirtualtoursaustin.com",
     "icon": "https://favicons.githubusercontent.com/3dvirtualtoursaustin.com",
     "slug": "3dvirtualtoursaustin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 433,
     "timeDay": 585,
     "timeWeek": 245,
     "timeMonth": 251,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 6
+    }
   },
   {
     "name": "efrensanchez.com",
     "url": "https://efrensanchez.com",
     "icon": "https://favicons.githubusercontent.com/efrensanchez.com",
     "slug": "efrensanchez-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 699,
     "timeDay": 275,
     "timeWeek": 229,
     "timeMonth": 248,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 5
+    }
   },
   {
     "name": "EPIC Project Management",
     "url": "https://www.epicpmgroup.com",
     "icon": "https://favicons.githubusercontent.com/www.epicpmgroup.com",
     "slug": "epic-project-management",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 3213,
     "timeDay": 3306,
     "timeWeek": 5651,
     "timeMonth": 3491,
     "timeYear": 3213,
     "dailyMinutesDown": {
+      "2021-02-19": 5,
       "2021-02-12": 37,
       "2021-01-04": 24
     }
@@ -79,47 +86,51 @@
     "url": "https://fridaysoutside.com",
     "icon": "https://favicons.githubusercontent.com/fridaysoutside.com",
     "slug": "fridaysoutside-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1648,
     "timeDay": 1800,
     "timeWeek": 1393,
     "timeMonth": 1499,
     "timeYear": 1648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 4
+    }
   },
   {
     "name": "Grand Slam Training",
     "url": "https://grandslamtraining.com",
     "icon": "https://favicons.githubusercontent.com/grandslamtraining.com",
     "slug": "grand-slam-training",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 460,
     "timeDay": 253,
     "timeWeek": 187,
     "timeMonth": 276,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 4
+    }
   },
   {
     "name": "Housegals.com",
     "url": "https://housegals.com",
     "icon": "https://favicons.githubusercontent.com/housegals.com",
     "slug": "housegals-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 1555,
     "timeDay": 1961,
@@ -127,6 +138,7 @@
     "timeMonth": 1469,
     "timeYear": 1555,
     "dailyMinutesDown": {
+      "2021-02-19": 4,
       "2021-01-21": 57
     }
   },
@@ -135,11 +147,11 @@
     "url": "https://huttoinfinityathletics.com",
     "icon": "https://favicons.githubusercontent.com/huttoinfinityathletics.com",
     "slug": "hutto-infinity-athletics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 1803,
     "timeDay": 1686,
@@ -147,6 +159,7 @@
     "timeMonth": 1648,
     "timeYear": 1803,
     "dailyMinutesDown": {
+      "2021-02-19": 3,
       "2021-01-21": 57
     }
   },
@@ -176,18 +189,20 @@
     "url": "https://kahanek.net",
     "icon": "https://favicons.githubusercontent.com/kahanek.net",
     "slug": "kahanek-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 423,
     "timeDay": 236,
     "timeWeek": 196,
     "timeMonth": 274,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 2
+    }
   },
   {
     "name": "Pflugerville Tours",
@@ -230,10 +245,10 @@
     "url": "https://sos-austin.org",
     "icon": "https://favicons.githubusercontent.com/sos-austin.org",
     "slug": "sos-austin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
     "time": 907,
@@ -242,6 +257,7 @@
     "timeMonth": 887,
     "timeYear": 907,
     "dailyMinutesDown": {
+      "2021-02-19": 2,
       "2021-01-21": 57
     }
   },
@@ -250,11 +266,11 @@
     "url": "https://starsvipers.com",
     "icon": "https://favicons.githubusercontent.com/starsvipers.com",
     "slug": "stars-vipers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 641,
     "timeDay": 366,
@@ -262,6 +278,7 @@
     "timeMonth": 588,
     "timeYear": 641,
     "dailyMinutesDown": {
+      "2021-02-19": 1,
       "2021-02-16": 38,
       "2021-02-03": 20
     }
@@ -271,10 +288,10 @@
     "url": "https://trueamedspa.com",
     "icon": "https://favicons.githubusercontent.com/trueamedspa.com",
     "slug": "trueamedspa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
     "time": 1751,
@@ -283,6 +300,7 @@
     "timeMonth": 1452,
     "timeYear": 1751,
     "dailyMinutesDown": {
+      "2021-02-19": 1,
       "2021-01-21": 56
     }
   },
@@ -291,10 +309,10 @@
     "url": "https://txbmxhof.org",
     "icon": "https://favicons.githubusercontent.com/txbmxhof.org",
     "slug": "tx-bmx-hall-of-fame",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1768,
@@ -302,16 +320,18 @@
     "timeWeek": 1540,
     "timeMonth": 1620,
     "timeYear": 1768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 1
+    }
   },
   {
     "name": "TX CPA Consulting",
     "url": "https://txcpaconsulting.com",
     "icon": "https://favicons.githubusercontent.com/txcpaconsulting.com",
     "slug": "tx-cpa-consulting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -320,7 +340,9 @@
     "timeWeek": 220,
     "timeMonth": 408,
     "timeYear": 680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 0
+    }
   },
   {
     "name": "PR By The Book",
