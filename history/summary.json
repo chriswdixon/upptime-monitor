@@ -176,18 +176,20 @@
     "url": "https://kahanek.net",
     "icon": "https://favicons.githubusercontent.com/kahanek.net",
     "slug": "kahanek-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 704,
-    "timeWeek": 374,
-    "timeMonth": 316,
-    "timeYear": 432,
-    "dailyMinutesDown": {}
+    "time": 430,
+    "timeDay": 596,
+    "timeWeek": 364,
+    "timeMonth": 314,
+    "timeYear": 430,
+    "dailyMinutesDown": {
+      "2021-02-21": 0
+    }
   },
   {
     "name": "Pflugerville Tours",
