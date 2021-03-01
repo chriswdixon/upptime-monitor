@@ -179,12 +179,12 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.69%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.85%",
     "time": 621,
     "timeDay": 878,
-    "timeWeek": 901,
+    "timeWeek": 875,
     "timeMonth": 696,
     "timeYear": 621,
     "dailyMinutesDown": {
@@ -255,9 +255,9 @@
     "url": "https://starsvipers.com",
     "icon": "https://favicons.githubusercontent.com/starsvipers.com",
     "slug": "stars-vipers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
@@ -267,6 +267,7 @@
     "timeMonth": 967,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2021-03-01": 0,
       "2021-02-16": 38,
       "2021-02-03": 20
     }
