@@ -1,7 +1,7 @@
 url: https://kahanek.net
-status: up
-code: 200
-responseTime: 1287
-lastUpdated: 2021-03-09T05:13:06.089Z
+status: down
+code: 503
+responseTime: 182
+lastUpdated: 2021-03-09T09:50:49.802Z
 startTime: Tue Dec 29 2020 14:50:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
