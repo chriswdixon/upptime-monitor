@@ -289,17 +289,17 @@
     "url": "https://trueamedspa.com",
     "icon": "https://favicons.githubusercontent.com/trueamedspa.com",
     "slug": "true-a-med-spa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3371,
-    "timeDay": 8717,
-    "timeWeek": 6860,
-    "timeMonth": 3820,
-    "timeYear": 3371,
+    "time": 3323,
+    "timeDay": 8122,
+    "timeWeek": 6644,
+    "timeMonth": 3757,
+    "timeYear": 3323,
     "dailyMinutesDown": {}
   },
   {
@@ -316,7 +316,7 @@
     "time": 942,
     "timeDay": 814,
     "timeWeek": 357,
-    "timeMonth": 346,
+    "timeMonth": 347,
     "timeYear": 942,
     "dailyMinutesDown": {}
   },
@@ -334,7 +334,7 @@
     "time": 447,
     "timeDay": 205,
     "timeWeek": 286,
-    "timeMonth": 272,
+    "timeMonth": 260,
     "timeYear": 447,
     "dailyMinutesDown": {}
   }
