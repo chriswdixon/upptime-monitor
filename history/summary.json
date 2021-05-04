@@ -115,17 +115,17 @@
     "url": "https://housegals.com",
     "icon": "https://favicons.githubusercontent.com/housegals.com",
     "slug": "housegals-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 860,
-    "timeDay": 195,
-    "timeWeek": 483,
-    "timeMonth": 371,
-    "timeYear": 860,
+    "time": 968,
+    "timeDay": 7905,
+    "timeWeek": 2375,
+    "timeMonth": 848,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2021-01-21": 57
     }
