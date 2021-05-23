@@ -13,7 +13,7 @@
     "time": 409,
     "timeDay": 97,
     "timeWeek": 333,
-    "timeMonth": 279,
+    "timeMonth": 290,
     "timeYear": 409,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 325,
     "timeDay": 124,
     "timeWeek": 236,
-    "timeMonth": 306,
+    "timeMonth": 318,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -88,7 +88,7 @@
     "time": 1371,
     "timeDay": 38,
     "timeWeek": 754,
-    "timeMonth": 762,
+    "timeMonth": 808,
     "timeYear": 1371,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "time": 330,
     "timeDay": 87,
     "timeWeek": 253,
-    "timeMonth": 301,
+    "timeMonth": 313,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -194,17 +194,17 @@
     "url": "https://kahanek.net",
     "icon": "https://favicons.githubusercontent.com/kahanek.net",
     "slug": "kahanak-master-builder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 1192,
-    "timeWeek": 669,
-    "timeMonth": 648,
-    "timeYear": 635,
+    "time": 632,
+    "timeDay": 160,
+    "timeWeek": 681,
+    "timeMonth": 643,
+    "timeYear": 632,
     "dailyMinutesDown": {}
   },
   {
@@ -221,7 +221,7 @@
     "time": 871,
     "timeDay": 131,
     "timeWeek": 283,
-    "timeMonth": 342,
+    "timeMonth": 355,
     "timeYear": 871,
     "dailyMinutesDown": {}
   },
@@ -239,7 +239,7 @@
     "time": 1366,
     "timeDay": 835,
     "timeWeek": 1142,
-    "timeMonth": 1227,
+    "timeMonth": 1266,
     "timeYear": 1366,
     "dailyMinutesDown": {}
   },
@@ -316,7 +316,7 @@
     "time": 850,
     "timeDay": 215,
     "timeWeek": 234,
-    "timeMonth": 289,
+    "timeMonth": 300,
     "timeYear": 850,
     "dailyMinutesDown": {}
   },
@@ -334,7 +334,7 @@
     "time": 431,
     "timeDay": 105,
     "timeWeek": 243,
-    "timeMonth": 302,
+    "timeMonth": 315,
     "timeYear": 431,
     "dailyMinutesDown": {}
   }
