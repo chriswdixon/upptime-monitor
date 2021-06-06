@@ -13,7 +13,7 @@
     "time": 394,
     "timeDay": 96,
     "timeWeek": 175,
-    "timeMonth": 264,
+    "timeMonth": 267,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 320,
     "timeDay": 83,
     "timeWeek": 199,
-    "timeMonth": 280,
+    "timeMonth": 284,
     "timeYear": 320,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 404,
     "timeDay": 126,
     "timeWeek": 214,
-    "timeMonth": 272,
+    "timeMonth": 274,
     "timeYear": 404,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 2559,
     "timeDay": 740,
     "timeWeek": 612,
-    "timeMonth": 1303,
+    "timeMonth": 1318,
     "timeYear": 2559,
     "dailyMinutesDown": {
       "2021-02-12": 37,
@@ -88,7 +88,7 @@
     "time": 1333,
     "timeDay": 1397,
     "timeWeek": 1013,
-    "timeMonth": 844,
+    "timeMonth": 811,
     "timeYear": 1333,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "time": 327,
     "timeDay": 165,
     "timeWeek": 209,
-    "timeMonth": 298,
+    "timeMonth": 302,
     "timeYear": 327,
     "dailyMinutesDown": {}
   },
@@ -124,7 +124,7 @@
     "time": 1147,
     "timeDay": 88,
     "timeWeek": 196,
-    "timeMonth": 263,
+    "timeMonth": 267,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2021-01-21": 57
@@ -144,7 +144,7 @@
     "time": 1932,
     "timeDay": 1265,
     "timeWeek": 2500,
-    "timeMonth": 2110,
+    "timeMonth": 2117,
     "timeYear": 1932,
     "dailyMinutesDown": {}
   },
@@ -162,7 +162,7 @@
     "time": 835,
     "timeDay": 129,
     "timeWeek": 240,
-    "timeMonth": 303,
+    "timeMonth": 308,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2021-01-21": 57
@@ -182,7 +182,7 @@
     "time": 568,
     "timeDay": 284,
     "timeWeek": 366,
-    "timeMonth": 456,
+    "timeMonth": 461,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2021-01-21": 61,
@@ -194,17 +194,17 @@
     "url": "https://kahanek.net",
     "icon": "https://favicons.githubusercontent.com/kahanek.net",
     "slug": "kahanak-master-builder",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 879,
-    "timeWeek": 1023,
-    "timeMonth": 844,
-    "timeYear": 759,
+    "time": 762,
+    "timeDay": 1085,
+    "timeWeek": 1039,
+    "timeMonth": 845,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -221,7 +221,7 @@
     "time": 822,
     "timeDay": 133,
     "timeWeek": 226,
-    "timeMonth": 327,
+    "timeMonth": 331,
     "timeYear": 822,
     "dailyMinutesDown": {}
   },
@@ -239,7 +239,7 @@
     "time": 1352,
     "timeDay": 794,
     "timeWeek": 1046,
-    "timeMonth": 1206,
+    "timeMonth": 1215,
     "timeYear": 1352,
     "dailyMinutesDown": {}
   },
@@ -257,7 +257,7 @@
     "time": 527,
     "timeDay": 155,
     "timeWeek": 279,
-    "timeMonth": 342,
+    "timeMonth": 347,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2021-01-21": 57
@@ -277,7 +277,7 @@
     "time": 1566,
     "timeDay": 581,
     "timeWeek": 804,
-    "timeMonth": 1222,
+    "timeMonth": 1198,
     "timeYear": 1566,
     "dailyMinutesDown": {
       "2021-02-16": 38,
@@ -298,7 +298,7 @@
     "time": 2227,
     "timeDay": 125,
     "timeWeek": 256,
-    "timeMonth": 320,
+    "timeMonth": 325,
     "timeYear": 2227,
     "dailyMinutesDown": {}
   },
@@ -316,7 +316,7 @@
     "time": 803,
     "timeDay": 105,
     "timeWeek": 222,
-    "timeMonth": 292,
+    "timeMonth": 297,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },
@@ -334,7 +334,7 @@
     "time": 416,
     "timeDay": 96,
     "timeWeek": 204,
-    "timeMonth": 306,
+    "timeMonth": 311,
     "timeYear": 416,
     "dailyMinutesDown": {}
   }
