@@ -49,7 +49,7 @@
     "time": 393,
     "timeDay": 364,
     "timeWeek": 318,
-    "timeMonth": 283,
+    "timeMonth": 288,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
@@ -66,7 +66,7 @@
     "uptimeYear": "99.98%",
     "time": 2367,
     "timeDay": 387,
-    "timeWeek": 512,
+    "timeWeek": 528,
     "timeMonth": 1266,
     "timeYear": 2367,
     "dailyMinutesDown": {
@@ -155,7 +155,7 @@
     "url": "https://jacksonsjoberg.com",
     "icon": "https://favicons.githubusercontent.com/jacksonsjoberg.com",
     "slug": "jackson-sjoberg-llp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -183,8 +183,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 748,
-    "timeDay": 647,
-    "timeWeek": 696,
+    "timeDay": 445,
+    "timeWeek": 609,
     "timeMonth": 845,
     "timeYear": 748,
     "dailyMinutesDown": {}
