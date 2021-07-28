@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 117,
-    "timeWeek": 200,
+    "timeWeek": 214,
     "timeMonth": 253,
     "timeYear": 360,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 189,
-    "timeWeek": 246,
+    "timeWeek": 254,
     "timeMonth": 289,
     "timeYear": 312,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 97,
-    "timeWeek": 254,
+    "timeWeek": 270,
     "timeMonth": 307,
     "timeYear": 379,
     "dailyMinutesDown": {}
@@ -105,7 +105,7 @@
     "uptimeYear": "99.98%",
     "time": 949,
     "timeDay": 94,
-    "timeWeek": 207,
+    "timeWeek": 214,
     "timeMonth": 295,
     "timeYear": 949,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 2010,
     "timeDay": 1107,
-    "timeWeek": 2005,
+    "timeWeek": 2246,
     "timeMonth": 2271,
     "timeYear": 2010,
     "dailyMinutesDown": {}
@@ -143,7 +143,7 @@
     "uptimeYear": "99.98%",
     "time": 710,
     "timeDay": 188,
-    "timeWeek": 282,
+    "timeWeek": 299,
     "timeMonth": 311,
     "timeYear": 710,
     "dailyMinutesDown": {
@@ -176,16 +176,16 @@
     "url": "https://kahanek.net",
     "icon": "https://favicons.githubusercontent.com/kahanek.net",
     "slug": "kahanak-master-builder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 982,
-    "timeWeek": 771,
-    "timeMonth": 827,
+    "timeDay": 899,
+    "timeWeek": 745,
+    "timeMonth": 825,
     "timeYear": 775,
     "dailyMinutesDown": {}
   },
@@ -202,7 +202,7 @@
     "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 211,
-    "timeWeek": 261,
+    "timeWeek": 274,
     "timeMonth": 296,
     "timeYear": 698,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "uptimeYear": "100.00%",
     "time": 1267,
     "timeDay": 262,
-    "timeWeek": 551,
+    "timeWeek": 609,
     "timeMonth": 898,
     "timeYear": 1267,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "uptimeYear": "99.98%",
     "time": 482,
     "timeDay": 117,
-    "timeWeek": 242,
+    "timeWeek": 263,
     "timeMonth": 343,
     "timeYear": 482,
     "dailyMinutesDown": {
@@ -279,7 +279,7 @@
     "uptimeYear": "100.00%",
     "time": 1546,
     "timeDay": 149,
-    "timeWeek": 243,
+    "timeWeek": 260,
     "timeMonth": 314,
     "timeYear": 1546,
     "dailyMinutesDown": {}
@@ -297,7 +297,7 @@
     "uptimeYear": "100.00%",
     "time": 677,
     "timeDay": 214,
-    "timeWeek": 260,
+    "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 677,
     "dailyMinutesDown": {}
@@ -315,7 +315,7 @@
     "uptimeYear": "100.00%",
     "time": 385,
     "timeDay": 180,
-    "timeWeek": 238,
+    "timeWeek": 249,
     "timeMonth": 286,
     "timeYear": 385,
     "dailyMinutesDown": {}
